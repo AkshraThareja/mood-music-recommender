@@ -22,3 +22,11 @@ study-buddy-time-manager/
   - test_basic.py # placeholder tests
 - README.md
 - requirements.txt
+
+
+## Run Locally
+Clone the repo:
+- git clone https://github.com/AkshraThareja/study-buddy-time-manager.git
+
+## Run the program:
+python src/main.py
