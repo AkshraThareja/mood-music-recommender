@@ -32,4 +32,4 @@ macOS/Linux: source venv/bin/activate
 3. Run program:
    python src/main.py
 4. Run locally:
-   clone https://github.com/AkshraThareja/study-buddy-time-manager.git
+   clone https://github.com/AkshraThareja/mood-music-recommender.git
